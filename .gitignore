@@ -1,0 +1,11 @@
+*.DS_Store
+Algorithmic Stock Trader - Heroku Project/.gitignore
+Algorithmic Stock Trader - Heroku Project/secrets
+Algorithmic Stock Trader - Heroku Project/td_lib/td_secrets
+*.idea
+*.iml
+*.xml
+Algorithmic Stock Trader - Heroku Project/.git
+Algorithmic Stock Trader - Heroku Project/venv
+Algorithmic Stock Trader - Heroku Project/__pycache__
+__pycache__/
